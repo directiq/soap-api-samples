@@ -10,6 +10,7 @@
 
 // http://api.directiq.com/v2.asmx?wsdl
 $client = new SoapClient("http://api.directiq.com/v2.asmx?wsdl");
+// Use your own api key here. This is just an example.
 $apiKey = "d7a04479-3f0s-44ff-8aaf-2c626df1c4a1";
 
 $params = array(
