@@ -22,7 +22,7 @@
     public void CallTheService()
     {
         // Use your own api key here. This is just an example.
-        const string apiKey = "d7a04479-3f0s-44ff-8aaf-2c626df1c4a1";
+        const string apiKey = "d7a04479-3f0s-44ff-8aaf-2a626df1c4a1";
 
         var httpWebRequest = CreateWebRequest();
         var xmlDocument = new XmlDocument();
